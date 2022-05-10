@@ -1,3 +1,4 @@
 <h1> Nischay </h1>
-<h2> Trying to learn Devops </h2>
-<h2> If you want to sponser, feel free to contact me ;) </h2>
+<h2> Learning Devops </h2>
+<h2> Buy me a coffee and get your name featured above! </h2>
+<h3> Offer ends soon, hurry up!!! </h3>
