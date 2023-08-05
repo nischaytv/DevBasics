@@ -1,3 +1,6 @@
+<head>
+  <title>Nischay</title>
+</head>
 <h1> Nischay </h1>
 <h2> Buy me a coffee and get your name featured above! </h2>
 <h3> Offer ends soon, hurry up!!! </h3>
